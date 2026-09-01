@@ -89,4 +89,15 @@ meme-generator-app/
 ├── app.py                   # Punto de entrada principal para ejecutar la aplicación
 ├── README.md                # Documentación principal del repositorio
 └── requirements.txt         # Lista de dependencias del proyecto Python
+```
+
+---
+
+## Requerimiento
+```text
+pip install pillow customtkinter
+```
+---
+
+
 
