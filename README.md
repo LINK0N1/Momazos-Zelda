@@ -24,7 +24,7 @@ En la actualidad, la creación y difusión de memes forma parte fundamental de l
 
 Las historias de usuario definidas para la planificación y validación de las funcionalidades del sistema son las siguientes:
 
-- [ ]* **US1:** Como usuario, quiero ingresar una URL de imagen para usarla como plantilla del meme.
+- [ ] **US1:** Como usuario, quiero ingresar una URL de imagen para usarla como plantilla del meme.
 - [ ] **US1: ** Como usuario, quiero ingresar texto para la parte superior de la imagen para contextualizar el meme.
 - [ ] **US3:** Como usuario, quiero ingresar texto para la parte inferior de la imagen para complementar el mensaje.
 - [ ] **US4:** Como usuario, quiero hacer clic en un botón de "Generar" para renderizar y visualizar la imagen con el texto superpuesto.
