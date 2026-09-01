@@ -24,13 +24,13 @@ En la actualidad, la creación y difusión de memes forma parte fundamental de l
 
 Las historias de usuario definidas para la planificación y validación de las funcionalidades del sistema son las siguientes:
 
-- [ ] **Como usuario**, quiero ingresar una URL de imagen para usarla como plantilla del meme.
-- [ ] **Como usuario**, quiero ingresar texto para la parte superior de la imagen para contextualizar el meme.
-- [ ] **Como usuario**, quiero ingresar texto para la parte inferior de la imagen para complementar el mensaje.
-- [ ] **Como usuario**, quiero hacer clic en un botón de "Generar" para renderizar y visualizar la imagen con el texto superpuesto.
-- [ ] **Como usuario**, quiero exportar/descargar el meme generado en formato PNG o JPG en mi almacenamiento local.
-- [ ] **(Bonus) Como usuario**, quiero poder cargar una imagen local desde mi computadora además de usar URLs.
-- [ ] **(Bonus) Como usuario**, quiero personalizar el tamaño y color del texto/borde para darle mejor estética al meme.
+- [ ]* **US1:** Como usuario, quiero ingresar una URL de imagen para usarla como plantilla del meme.
+- [ ] **US1: ** Como usuario, quiero ingresar texto para la parte superior de la imagen para contextualizar el meme.
+- [ ] **US3:** Como usuario, quiero ingresar texto para la parte inferior de la imagen para complementar el mensaje.
+- [ ] **US4:** Como usuario, quiero hacer clic en un botón de "Generar" para renderizar y visualizar la imagen con el texto superpuesto.
+- [ ] **US5:** Como usuario, quiero exportar/descargar el meme generado en formato PNG o JPG en mi almacenamiento local.
+- [ ] **US6:** Como usuario, quiero poder cargar una imagen local desde mi computadora además de usar URLs.
+- [ ] **US7:** Como usuario, quiero personalizar el tamaño y color del texto/borde para darle mejor estética al meme.
 
 > **Origen del Proyecto:** Idea adaptada del banco de proyectos comunitarios [App Ideas (Tier 2 - Intermediate)](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Meme-Generator-App.md).
 
