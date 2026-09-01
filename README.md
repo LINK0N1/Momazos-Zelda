@@ -2,7 +2,7 @@
 
 ## Integrantes del Equipo
 
-* **Integrante 1** — [@LINK0N1](https://github.com/LINK0N1)
+* **Amaury Alí Tristán Córdova** — [@LINK0N1] https://github.com/LINK0N1
 
 ---
 
