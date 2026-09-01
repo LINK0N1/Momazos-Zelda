@@ -1,5 +1,11 @@
 # Momazos-Zelda
 
+## Integrantes del Equipo
+
+* **Integrante 1** — [@LINK0N1](https://github.com/LINK0N1)
+
+---
+
 ## Descripción
 
 **Meme Generator App** 
@@ -46,9 +52,3 @@ Para el desarrollo del proyecto se seleccionó una metodología de trabajo **Ág
 
 ---
 
-## Integrantes del Equipo
-
-* **Integrante 1** — [@usuario_github1](https://github.com/usuario_github1)
-* **Integrante 2** — [@usuario_github2](https://github.com/usuario_github2)
-* **Integrante 3** — [@usuario_github3](https://github.com/usuario_github3)
-* **Integrante 4** — [@usuario_github4](https://github.com/usuario_github4)
