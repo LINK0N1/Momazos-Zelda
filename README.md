@@ -42,7 +42,8 @@ Las historias de usuario definidas para la planificación y validación de las f
 
 Para el desarrollo del proyecto se seleccionó una metodología de trabajo **Ágil basada en Kanban**, gestionada de forma centralizada mediante **GitHub Projects**.
 
-**Justificación:** Se eligió el enfoque ágil/Kanban debido al tamaño reducido del equipo (3 a 4 integrantes) y al marco de tiempo acotado disponible para la realización de la práctica. Esta metodología nos permite gestionar un *backlog* cambiante de forma flexible, descomponer las historias de usuario (*User Stories*) en *Issues* iterativos y asignables, y visibilizar en tiempo real el flujo de trabajo (columnas: *Backlog*, *In Progress*, *Review*, *Done*) en el tablero de GitHub Projects para asegurar entregas continuas e incrementos funcionales rápidos.
+### Justificación
+Se eligió el enfoque ágil/Kanban debido al tamaño reducido del equipo (3 a 4 integrantes) y al marco de tiempo acotado disponible para la realización de la práctica. Esta metodología nos permite gestionar un *backlog* cambiante de forma flexible, descomponer las historias de usuario (*User Stories*) en *Issues* iterativos y asignables, y visibilizar en tiempo real el flujo de trabajo (columnas: *Backlog*, *In Progress*, *Review*, *Done*) en el tablero de GitHub Projects para asegurar entregas continuas e incrementos funcionales rápidos.
 
 ---
 
