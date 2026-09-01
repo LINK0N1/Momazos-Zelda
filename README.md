@@ -11,6 +11,13 @@
 **Meme Generator App** 
 Es una aplicación de escritorio desarrollada en Python que permite a los usuarios y creadores de contenido digital generar memes de manera rápida, intuitiva y local. El proyecto resuelve la necesidad frecuente de editar imágenes para la creación de memes sin depender de software de diseño pesado (como Adobe Photoshop) ni de herramientas web de terceros que a menudo imponen marcas de agua, limitan la calidad de salida o comprometen la privacidad del usuario al subir archivos a servidores externos. A través de una interfaz gráfica ligera, la aplicación facilita la carga de plantillas mediante URL o almacenamiento local, permitiendo superponer y estilizar texto superior e inferior de forma inmediata.
 
+## Justificación 
+
+En la actualidad, la creación y difusión de memes forma parte fundamental de la comunicación en redes sociales y medios digitales. Sin embargo, los creadores de contenido y usuarios convencionales enfrentan problemas recurrentes al utilizar herramientas existentes:
+* **Marcas de agua y pagos:** Las plataformas web gratuitas suelen incrustar marcas de agua molestas o restringir la descarga en alta calidad bajo esquemas de suscripción.
+* **Privacidad y dependencia de red:** Subir imágenes a servidores de terceros compromete la privacidad de los archivos personales y requiere una conexión a Internet constante para editar.
+* **Software complejo:** Las herramientas avanzadas de edición (como Adobe Photoshop o GIMP) representan una curva de aprendizaje elevada y consumen demasiados recursos de hardware para una tarea rápida.
+
 ---
 
 ## Historias de Usuario (User Stories)
