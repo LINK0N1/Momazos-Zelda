@@ -1,1 +1,54 @@
 # Momazos-Zelda
+
+## Descripción
+
+**Meme Generator App** 
+Es una aplicación de escritorio desarrollada en Python que permite a los usuarios y creadores de contenido digital generar memes de manera rápida, intuitiva y local. El proyecto resuelve la necesidad frecuente de editar imágenes para la creación de memes sin depender de software de diseño pesado (como Adobe Photoshop) ni de herramientas web de terceros que a menudo imponen marcas de agua, limitan la calidad de salida o comprometen la privacidad del usuario al subir archivos a servidores externos. A través de una interfaz gráfica ligera, la aplicación facilita la carga de plantillas mediante URL o almacenamiento local, permitiendo superponer y estilizar texto superior e inferior de forma inmediata.
+
+---
+
+## Historias de Usuario (User Stories)
+
+Las historias de usuario definidas para la planificación y validación de las funcionalidades del sistema son las siguientes:
+
+- [ ] **Como usuario**, quiero ingresar una URL de imagen para usarla como plantilla del meme.
+- [ ] **Como usuario**, quiero ingresar texto para la parte superior de la imagen para contextualizar el meme.
+- [ ] **Como usuario**, quiero ingresar texto para la parte inferior de la imagen para complementar el mensaje.
+- [ ] **Como usuario**, quiero hacer clic en un botón de "Generar" para renderizar y visualizar la imagen con el texto superpuesto.
+- [ ] **Como usuario**, quiero exportar/descargar el meme generado en formato PNG o JPG en mi almacenamiento local.
+- [ ] **(Bonus) Como usuario**, quiero poder cargar una imagen local desde mi computadora además de usar URLs.
+- [ ] **(Bonus) Como usuario**, quiero personalizar el tamaño y color del texto/borde para darle mejor estética al meme.
+
+> **Origen del Proyecto:** Idea adaptada del banco de proyectos comunitarios [App Ideas (Tier 2 - Intermediate)](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Meme-Generator-App.md).
+
+---
+
+## Metodología de Trabajo
+
+### Enfoque Ágil (Kanban con GitHub Projects)
+
+Para el desarrollo del proyecto se seleccionó una metodología de trabajo **Ágil basada en Kanban**, gestionada de forma centralizada mediante **GitHub Projects**.
+
+**Justificación:** Se eligió el enfoque ágil/Kanban debido al tamaño reducido del equipo (3 a 4 integrantes) y al marco de tiempo acotado disponible para la realización de la práctica. Esta metodología nos permite gestionar un *backlog* cambiante de forma flexible, descomponer las historias de usuario (*User Stories*) en *Issues* iterativos y asignables, y visibilizar en tiempo real el flujo de trabajo (columnas: *Backlog*, *In Progress*, *Review*, *Done*) en el tablero de GitHub Projects para asegurar entregas continuas e incrementos funcionales rápidos.
+
+---
+
+## Herramientas CASE y Tecnologías Utilizadas
+
+### Lenguaje y Librerías de Desarrollo
+* **Lenguaje de Programación:** [Python](https://www.python.org/)
+* **Interfaz Gráfica de Usuario (GUI):** [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) / [Tkinter](https://docs.python.org/3/library/tkinter.html) para la construcción de una interfaz visual moderna, limpia y responsive.
+* **Procesamiento de Imágenes:** [Pillow (PIL)](https://python-pillow.org/) para la manipulación, renderizado dinámico de tipografía con contorno (*stroke*), redimensionado y exportación de imágenes.
+
+### Herramientas CASE (Computer-Aided Software Engineering)
+* **Gestión del Proyecto:** [GitHub Projects](https://github.com/features/projects) para el seguimiento de tareas con el tablero Kanban y la vinculación automática de *Issues* y *Pull Requests*.
+* **Modelado y Diagramado:** [draw.io (diagrams.net)](https://app.diagrams.net/) para el diseño de diagramas estructurales, casos de uso y diagramas de flujo de la arquitectura del software.
+
+---
+
+## Integrantes del Equipo
+
+* **Integrante 1** — [@usuario_github1](https://github.com/usuario_github1)
+* **Integrante 2** — [@usuario_github2](https://github.com/usuario_github2)
+* **Integrante 3** — [@usuario_github3](https://github.com/usuario_github3)
+* **Integrante 4** — [@usuario_github4](https://github.com/usuario_github4)
