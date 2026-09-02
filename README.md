@@ -65,30 +65,11 @@ Se eligió el enfoque ágil/Kanban debido al tamaño reducido del equipo (3 a 4 
 A continuación se presenta la organización modular de archivos y directorios dentro del repositorio:
 
 ```text
-meme-generator-app/
-│
-├── assets/                  # Recursos visuales, fuentes (.ttf) e iconos de la app
-│   ├── fonts/               # Tipografías (ej. Impact.ttf)
-│   └── icons/               # Iconos de la interfaz gráfica
-│
-├── src/                     # Código fuente de la aplicación
-│   ├── __init__.py          # Inicializador de módulo Python
-│   ├── gui/                 # Módulo de interfaz gráfica de usuario
-│   │   ├── __init__.py
-│   │   └── main_window.py   # Ventana principal y componentes CustomTkinter
-│   │
-│   └── services/            # Lógica de negocio y procesamiento
-│       ├── __init__.py
-│       ├── image_loader.py  # Descarga e inspección de imágenes (URL/Local)
-│       └── meme_engine.py   # Procesamiento de imágenes con Pillow (text & stroke)
-│
-├── tests/                   # Pruebas unitarias y de integración
-│   └── test_meme.py         # Test runner de validaciones de procesamiento
-│
-├── .gitignore               # Archivos omitidos en el control de versiones
-├── app.py                   # Punto de entrada principal para ejecutar la aplicación
+momazos-Zelda/
+├── memes.py                 # Punto de entrada principal para ejecutar la aplicacióm
+├── diagrama.png             # Diagrama de flujo
 ├── README.md                # Documentación principal del repositorio
-└── requirements.txt         # Lista de dependencias del proyecto Python
+└── requirements.md          # Lista de dependencias del proyecto Python
 ```
 
 ---
