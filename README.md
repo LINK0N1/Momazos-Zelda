@@ -59,7 +59,11 @@ Se eligió el enfoque ágil/Kanban debido al tamaño reducido del equipo (3 a 4 
 * **Modelado y Diagramado:** [draw.io (diagrams.net)](https://app.diagrams.net/) para el diseño de diagramas estructurales, casos de uso y diagramas de flujo de la arquitectura del software.
 
 ---
+## Diagrama de Flujo
 
+![Diagrama de Flujo](Diagrama.png)
+
+---
 ## Estructura del Proyecto
 
 A continuación se presenta la organización modular de archivos y directorios dentro del repositorio:
